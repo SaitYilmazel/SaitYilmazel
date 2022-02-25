@@ -15,12 +15,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=SaitYilmazel&theme=react&border=61dafb&hide_border=true" alt="SaitYilmazel" />
-    <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=SaitYilmazel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=SaitYilmazel&theme=react&border=61dafb&hide_border=true" alt="SaitYilmazel" />
+    <img align="right" width=300 src="https://github-readme-stats.vercel.app/api?username=SaitYilmazel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaitYilmazel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaitYilmazel&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SaitYilmazel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
