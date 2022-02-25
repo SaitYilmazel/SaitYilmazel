@@ -83,8 +83,3 @@
 
 <h2 align="center"> <img width="50" src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif"/>Git Profile Trophies</h2><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SaitYilmazel&theme=gruvbox" />
-<br>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
