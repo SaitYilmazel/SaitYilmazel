@@ -1,7 +1,7 @@
 <h1 align="center">
     <img  src="https://readme-typing-svg.herokuapp.com?font=Arial+black&color=%2336BCF7&size=30&center=true&vCenter=true&lines=Hello+There!+%F0%9F%91%8B;I'm+Sait;Nice+to+meet+you!">
 </h1>
-<hr>
+<br>
 
 - 🛠 I'm currently working with React Native, Html5, Css3, Javascript, etc.
 - 🚀 I'm currently learning Mobile Developer.
@@ -10,14 +10,13 @@
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: saityilmazel@gmail.com
 - 📝 Checkout my Resume.
-<hr>
 
 <h2 align="center">🔥 Stats 🔥</h2>
-
+<br>
 <p align=center>
   <div align=center>
-    <img align="left" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=SaitYilmazel&theme=react&border=61dafb&hide_border=true" alt="SaitYilmazel" />
-    <img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=SaitYilmazel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=SaitYilmazel&theme=react&border=61dafb&hide_border=true" alt="SaitYilmazel" />
+    <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=SaitYilmazel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
@@ -26,11 +25,9 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SaitYilmazel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<hr>
-
+<br>
 <h2 align="center">💻 Languages & Frameworks & Tools & Abilities 💻</h2>
-
+<br>
 <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white">
 </a>
@@ -67,10 +64,9 @@
 <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<hr>
-
+<br>
 <h2 align="center">📳 Contate-me 📳</h2>
-
+<br>
 <div>
 <p align="center">
   <a href="https://www.linkedin.com/in/sait-yılmazel-518b33181/" target="_blank">
@@ -86,7 +82,7 @@
     <img height="28" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
   </a> 
 </div>
-
+<br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
