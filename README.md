@@ -78,7 +78,7 @@
   <a href="https://www.instagram.com/saityilmazel/" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.hackerrank.com/saityilmazel" target="_blank">
+    <a href="mailto: saityilmazel@gmail.com" target="_blank">
     <img height="28" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank">
   </a> 
 </div>
