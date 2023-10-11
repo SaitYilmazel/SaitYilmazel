@@ -20,7 +20,7 @@
 <p align="center"><img width=450 src="https://github-readme-stats.vercel.app/api?username=SaitYilmazel&border_color=36BCF7&theme=react" alt="SaitYilmazel"  /></p>
 <p align="center"><img width=450 src="https://github-readme-stats.vercel.app/api/top-langs?username=SaitYilmazel&show_icons=true&locale=en&layout=compact&border_color=36BCF7&theme=react" alt="SaitYilmazel" /></p>
 <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=SaitYilmazel&border=36BCF7&theme=react" alt="SaitYilmazel"  /></p>
-<p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SaitYilmazel&theme=react-dark&bg_color=20232a&hide_border=true" alt="SaitYilmazel"/></p>
+</p>
 
 ## 🛠️ My Skills
 
